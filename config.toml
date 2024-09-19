@@ -1,0 +1,5 @@
+[openai]
+OPENAI_API_KEY = "your_openai_api_key"
+
+[pinecone]
+PINECONE_API_KEY = "your_pinecone_api_key"
